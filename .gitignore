@@ -1,0 +1,6 @@
+/node_modules
+/provisioning/.terraform
+*.hcl
+*.tfstate
+*.tfstate.backup
+/provisioning/variables.auto.tfvars

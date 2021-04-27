@@ -1,0 +1,8 @@
+region="us-east-1"
+access_key = ""
+secret_key = ""
+db_name= "deliverrDB"
+db_username= "deliverr_user"
+db_password= "deliverr_pass"
+availability_zone1= "us-east-1a"
+availability_zone2= "us-east-1b"
