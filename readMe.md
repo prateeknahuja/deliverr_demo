@@ -25,10 +25,10 @@ The microservice has three apis:
 2. Now go into the provisioning directory, and enter the access key and secret key in the variables.example.tfvars file. 
 3. Now rename the variables.example.tfvars file to variables.auto.tfvars. This will automatically inject the values for the variables in terraform. 
 4. Now run the below command to plan the resources, check everything is good. 
-    terraform plan 
+   <br><h3>terraform plan </br></h3>
 
 5. Then run apply to provision the Elastic Beanstalk (NodeJS) instance with RDS (MySQL)
-
+    <br><h3>terraform apply</br></h3>
 =====================================================================================================================================
 
 
